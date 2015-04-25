@@ -1,5 +1,5 @@
 {
-	"name": "MezaTech/paggern",
+	"name": "mezatech/paggern",
 	"version": "0.1.1",
 	"description": "Pattern interpreter for generating random strings.",
 	"keywords": ["parser", "generator", "voucher", "code"],
